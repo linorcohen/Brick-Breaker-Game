@@ -1,5 +1,5 @@
-# EX3_2 - Brick Breaker game part 2 - add aditional Collision strategies.
-The Brick Breaker from Ex3_1 with additional feature - each brick gets a different strategy randomly. 
+# Brick Breaker game 
+The Brick Breaker Game with collision strategies.  
 
 The given strategies are:  
 - Camera Strategy - Zooms in the resultion closer to the ball until the ball hit 4 bricks.
